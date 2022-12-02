@@ -1,13 +1,23 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/picnic">
 body {
   background-color: white;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: left;
+  text-shadow: 2px 2px 5px cyan;
+}
+h2 {
+  color: black;
+  text-align: left;
+  text-shadow: 2px 2px 5px purple;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+button {
+  background-color:#0a0a23;
 }
