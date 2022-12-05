@@ -21,3 +21,7 @@ p {
 button {
   background-color:#0a0a23;
 }
+div {
+  resize: both;
+  overflow: auto;
+}
